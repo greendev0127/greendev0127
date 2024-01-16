@@ -4,7 +4,7 @@
 <h3 align="center">A passionate Programmer</h3>
 <p align="center">I am fascinated by how computer technology 🌐 has brought changes to our lives that could never have been predicted; witnessing the expansion of computer science allowed me to consider studying software engineering from an early age, and my enthusiasm has perpetually developed since this time. And also I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️</p>
 <p align="center"> 
- <img src="https://komarev.com/ghpvc/?username=supuna97&label=Profile%20views&color=0e75b6&style=flat" alt="benjamin emerson" /> 
+ <img src="https://komarev.com/ghpvc/?username=supuna97&label=Profile%20views&color=0e75b6&style=flat" alt="green emerson" /> 
 <!--  <img src="https://img.shields.io/badge/Languages-Python | Java | PHP | Typescript | Node | React -green.svg" alt="supun nanayakkara's languages" /> -->
 <!--  <img alt="Profile followers" src="https://img.shields.io/github/followers/supuna97"> -->
 </p>
@@ -40,7 +40,7 @@
 
 - 💬 Ask me about **Java, Python, PHP and NodeJS**
 
-- 📫 How to reach me **benjaminemerson920127@gmail.com**
+- 📫 How to reach me **daniellee920127@gmail.com**
 
 - 📄 Know about my experiences
 
@@ -120,7 +120,7 @@
 
 <h3 align="left">Activity:</h3>
 
-![Greendev0127's Graph](https://github-readme-activity-graph.vercel.app/graph?username=greendev0127&custom_title=Benjamin's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![Greendev0127's Graph](https://github-readme-activity-graph.vercel.app/graph?username=greendev0127&custom_title=Green's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
 <br><br><br>
 
@@ -129,4 +129,4 @@
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> ☺</em>
 
 <br>
-<p align="right" > Created with 🧡 by <a href="http://supun.traditionalme.life">Benjamin Emerson</a></p>
+<p align="right" > Created with 🧡 by <a href="http://supun.traditionalme.life">Daniel Lee</a></p>
