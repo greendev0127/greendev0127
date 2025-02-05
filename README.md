@@ -40,8 +40,6 @@
 
 - 💬 Ask me about **AWS, SaaS, Lambda, React/Next.js, Node.js, AI**
 
-- 📫 How to reach me **daniellee920127@gmail.com**
-
 - 📄 Know about my experiences
 
 - ⚡ Fun fact **I think I'm funny**
@@ -98,4 +96,4 @@
 <br><br><br>
 
 <br>
-<p align="right" > Created with 🧡 by <a href="http://supun.traditionalme.life">Daniel Lee</a></p>
+<p align="right" > Created with 🧡 by <a href="http://supun.traditionalme.life">Super Green Dev</a></p>
